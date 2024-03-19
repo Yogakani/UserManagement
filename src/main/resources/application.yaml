@@ -11,8 +11,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: yogakani32@gmail.com
-    password: rxho iqra odtl lcvd
+    username: 
+    password: 
     properties:
       mail:
         smtp:
