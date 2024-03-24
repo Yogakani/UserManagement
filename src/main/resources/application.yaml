@@ -23,5 +23,11 @@ spring:
 veriphone:
   key: 33B0EB9A206D420994329886E48737FC
 
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    operationsSorter: method
+
 
 
